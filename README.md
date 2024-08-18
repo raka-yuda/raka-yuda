@@ -11,7 +11,7 @@
 ## Some of my products
 
 - 🗿 [Myth](https://myth.ryuda.me)
-- 🗒️ [Helperz](https//helperz.ryuda.me)
+- 🗒️ [Helperz](https://helperz.ryuda.me)
 - ⛰️ [Poentjak](https://github.com/raka-yuda/poentjak) (Coming Soon)
 - 📈 [Trendz](https://github.com/raka-yuda/trendz) (Coming Soon)
 
