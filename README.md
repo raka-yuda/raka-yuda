@@ -10,8 +10,10 @@
 
 ## Some of my products
 
-- 🗿 [Myth](https://myth.ryuda,me)
+- 🗿 [Myth](https://myth.ryuda.me)
 - 🗒️ [Helperz](https//helperz.ryuda.me)
+- ⛰️ [Poentjak](https://github.com/raka-yuda/poentjak) (Coming Soon)
+- 📈 [Trendz](https://github.com/raka-yuda/trendz) (Coming Soon)
 
 ## Follow me
 [![Linkedin: Raka](https://img.shields.io/badge/-Raka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raka-yuda-pradipta/)](https://www.linkedin.com/in/raka-yuda-pradipta/)
