@@ -38,4 +38,7 @@
 <br />
 <br />
 
-[![Raka's github stats](https://github-readme-stats.vercel.app/api?username=raka-yuda&show_icons=true&theme=radical)](https://github.com/raka-yuda/github-readme-stats)
+[![Raka's github stats](https://github-readme-stats.vercel.app/api?username=raka-yuda&show_icons=true&theme=moltack)](https://github.com/raka-yuda/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=raka-yuda&color=bf9270)
+![](https://hit.yhype.me/github/profile?account_id=30462016)
