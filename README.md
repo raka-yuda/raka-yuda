@@ -14,6 +14,7 @@
 - 🗒️ [Helperz](https://helperz.ryuda.me)
 - 📈 [Trendz](https://trendz.ryuda.me)
 - ⛰️ [Poentjak](https://github.com/raka-yuda/poentjak) (Coming Soon)
+- 🍛 [Foodmap](https://github.com/raka-yuda/foodmap) (Coming Soon)
 
 
 ## Follow me
