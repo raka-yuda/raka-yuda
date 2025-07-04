@@ -38,7 +38,8 @@
 <br />
 <br />
 
+## Stats
+![Profile views](https://komarev.com/ghpvc/?username=raka-yuda&color=bf9270)<br />
 [![Raka's github stats](https://github-readme-stats.vercel.app/api?username=raka-yuda&show_icons=true&theme=moltack)](https://github.com/raka-yuda/github-readme-stats)
-
-![Profile views](https://komarev.com/ghpvc/?username=raka-yuda&color=bf9270)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ryuda?theme=dark&font=Lato&height=195)
 ![](https://hit.yhype.me/github/profile?account_id=30462016)
