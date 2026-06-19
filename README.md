@@ -2,7 +2,7 @@
 
 ## I'm Raka, a Software Engineer.
 
-- 🔭 Software Engineer at [Simasjiwa](https://simasjiwa.co.id)
+- 🔭 Software Engineer at TBA
 - 🏅 [Hacker Rank](https://www.hackerrank.com/profile/Ryuda__), [LeetCode](https://leetcode.com/u/ryuda)
 - 📫 How to reach me: [Mail](mailto:raka.yuda.pradipta@gmail.com)
 - 🌐 Indonesian, English, Javanese
